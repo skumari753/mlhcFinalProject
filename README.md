@@ -9,6 +9,7 @@ https://drive.google.com/file/d/1b_c9VZ5dj2wJuxvo30uIiNTKdFqjum0z/view
 Contains processed data files split by train, validation and test datasets. The folder is stored on drive link 
 https://drive.google.com/drive/folders/1kkPJYNhHgUa3i23hDKy7VWmCgUrbpXzD?usp=sharing
 
+# Instructions on running code
 1. Unzip all files and place them in the data folder
 2. Run preprocessing/process_interventions.ipynb
 3. Run preprocessing/sampleandhold.ipynb
